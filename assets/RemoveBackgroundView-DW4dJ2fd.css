@@ -1,0 +1,1 @@
+.image-container{transition:all .3s ease}.image-container:hover{transform:scale(1.02);box-shadow:0 10px 25px #0000001a}@keyframes spin{0%{transform:rotate(0)}to{transform:rotate(360deg)}}.loading-spinner{animation:spin 1s linear infinite}.image-container canvas{max-width:100%;height:auto;display:block}
